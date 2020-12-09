@@ -47,10 +47,7 @@ I'm in my third year , pursuing Bachelors's in Computer Science 🎓 from Indian
               <span>Visual Studio Code</span><br><br><br>
               <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
             </td>
-    
-        </tr>
-                           <br>                                          
-        <tr>
+   
             <td width="25%" align="center">
               <span>𝗚𝗶𝘁</span><br><br><br>
               <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
