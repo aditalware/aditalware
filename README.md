@@ -49,13 +49,8 @@ I'm in my third year , pursuing Bachelors's in Computer Science 🎓 from Indian
             </td>
     
         </tr>
-                                                                     <
-  </tbody>
-</table>
-
-<table>
-  <tbody>
- <tr>
+                           <br>                                          
+        <tr>
             <td width="25%" align="center">
               <span>𝗚𝗶𝘁</span><br><br><br>
               <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
@@ -65,10 +60,10 @@ I'm in my third year , pursuing Bachelors's in Computer Science 🎓 from Indian
               <span>React</span><br><br><br>
               <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react.svg">
             </td>
-            <td width="25%" align="center">
-            <span>Redux</span><br><br><br>
-            <img height="64px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-            </td>
+                <td width="25%" align="center">
+                <span>Redux</span><br><br><br>
+                <img height="64px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+                </td>
            <td width="25%" align="center">
             <span>Node</span><br><br><br>
             <img height="64px" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg">
