@@ -41,12 +41,11 @@ I'm in my third year , pursuing Bachelors's in Computer Science 🎓 from Indian
         <td width="25%" align="center">
             <span>Node</span><br><br><br>
             <img height="64px" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg">
-          </td>     
-     
-      <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
+        </td>     
+         <td width="25%" align="center">
+            <span>Python</span><br><br><br>
+            <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        </td>    
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -64,7 +63,7 @@ I'm in my third year , pursuing Bachelors's in Computer Science 🎓 from Indian
                 <td width="25%" align="center">
                 <span>Redux</span><br><br><br>
                 <img height="64px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-                </td>
+           </td>
     </tr>
   </tbody>
 </table>
