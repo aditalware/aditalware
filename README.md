@@ -53,10 +53,13 @@ I'm in my third year , pursuing Bachelors's in Computer Science 🎓 from Indian
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
+      
        <td width="25%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react.svg">
       </td>
+      </tr>
+      <tr valign="top">
         <td width="25%" align="center">
         <span>Redux</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
@@ -89,4 +92,6 @@ I'm in my third year , pursuing Bachelors's in Computer Science 🎓 from Indian
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aditalware&show_icons=true&hide_border=true)
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
+<br/>
+
 ⭐️ From [aditalware](https://github.com/aditalware)
