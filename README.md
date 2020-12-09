@@ -47,7 +47,7 @@ I'm in my third year , pursuing Bachelors's in Computer Science 🎓 from Indian
     <tr valign="top">
       <td width="25%" align="center">
         <span>Visual Studio Code</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
@@ -62,9 +62,11 @@ I'm in my third year , pursuing Bachelors's in Computer Science 🎓 from Indian
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
       </td>
        <td width="25%" align="center">
-        <span>Redux</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+        <span>Node</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg">
       </td>
+                                                                                 
+    </tr>                                                                     <
   </tbody>
 </table>
 
@@ -75,10 +77,10 @@ I'm in my third year , pursuing Bachelors's in Computer Science 🎓 from Indian
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:alwareadit@gmail.com?Subject=Hello%Adit) 👨‍💻.
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 ### Contact with me 📝
+<br/>
 ### Show some ❤️ by starring some of the repositories!
-
+<br/>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/aditalware/count.svg" />
