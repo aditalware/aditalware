@@ -30,7 +30,7 @@ I'm in my third year , pursuing Bachelors's in Computer Science 🎓 from Indian
 
 <table>
   <tbody>
-    <tr valign="top">
+    <tr >
             <td width="25%" align="center">
               <span>𝗖</span><br><br><br>
               <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
@@ -47,9 +47,9 @@ I'm in my third year , pursuing Bachelors's in Computer Science 🎓 from Indian
               <span>Visual Studio Code</span><br><br><br>
               <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
             </td>
-    </tr>
-    <tr valign="top">
-           
+    
+        </tr>
+        <tr>
             <td width="25%" align="center">
               <span>𝗚𝗶𝘁</span><br><br><br>
               <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
